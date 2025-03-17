@@ -6,3 +6,4 @@ pandas
 shap
 fairlearn
 scikit-learn
+echo "shap"
